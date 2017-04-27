@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <excludeFromCompile>
+      <directory url="file://$PROJECT_DIR$/playn/archetype/src/main/resources/archetype-resources" includeSubdirectories="true" />
+    </excludeFromCompile>
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="PetersGame-assets" />
+        <module name="PetersGame-core" />
+        <module name="PetersGame-java" />
+        <module name="playn-android" />
+        <module name="playn-archetype" />
+        <module name="playn-bugvm" />
+        <module name="playn-core" />
+        <module name="playn-html" />
+        <module name="playn-java-base" />
+        <module name="playn-java-lwjgl" />
+        <module name="playn-java-lwjgl2" />
+        <module name="playn-java-swt" />
+        <module name="playn-jbox2d" />
+        <module name="playn-robovm" />
+        <module name="playn-scene" />
+        <module name="playn-tests-assets" />
+        <module name="playn-tests-core" />
+        <module name="playn-tests-java-lwjgl" />
+        <module name="playn-webgl" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="PetersGame" target="1.5" />
+      <module name="PetersGame-assets" target="1.7" />
+      <module name="PetersGame-core" target="1.7" />
+      <module name="PetersGame-java" target="1.7" />
+      <module name="PetersSchoolGame" target="1.5" />
+      <module name="playn-android" target="1.7" />
+      <module name="playn-archetype" target="1.5" />
+      <module name="playn-bugvm" target="1.7" />
+      <module name="playn-core" target="1.7" />
+      <module name="playn-html" target="1.7" />
+      <module name="playn-java-base" target="1.7" />
+      <module name="playn-java-lwjgl" target="1.8" />
+      <module name="playn-java-lwjgl2" target="1.7" />
+      <module name="playn-java-swt" target="1.7" />
+      <module name="playn-jbox2d" target="1.7" />
+      <module name="playn-project" target="1.5" />
+      <module name="playn-robovm" target="1.7" />
+      <module name="playn-scene" target="1.7" />
+      <module name="playn-tests" target="1.5" />
+      <module name="playn-tests-assets" target="1.7" />
+      <module name="playn-tests-core" target="1.7" />
+      <module name="playn-tests-java-lwjgl" target="1.7" />
+      <module name="playn-webgl" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

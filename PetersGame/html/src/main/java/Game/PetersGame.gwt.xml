@@ -1,0 +1,11 @@
+<module rename-to='PetersGame'>
+  <inherits name='playn.Scene'/>
+  <inherits name='PetersGameAssets'/>
+
+  <source path='core'/>
+  <source path='html'/>
+
+  <public path="resources" />
+
+  <entry-point class='Game.html.PetersGameHtml'/>
+</module>
